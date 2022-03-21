@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/Masterminds/semver/v3 v3.1.1
-	github.com/editorconfig/editorconfig-core-go/v2 v2.4.1
+	github.com/editorconfig/editorconfig-core-go/v2 v2.4.4
 	github.com/fatih/color v1.9.0 // indirect
 	github.com/go-macaron/binding v1.2.0
 	github.com/go-macaron/cache v0.0.0-20190810181446-10f7c57e2196
@@ -57,7 +57,7 @@ require (
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/asn1-ber.v1 v1.0.0-20181015200546-f715ec2f112d // indirect
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
-	gopkg.in/ini.v1 v1.66.2
+	gopkg.in/ini.v1 v1.66.4
 	gopkg.in/ldap.v2 v2.5.1
 	gopkg.in/macaron.v1 v1.4.0
 	gorm.io/driver/mysql v1.0.3
